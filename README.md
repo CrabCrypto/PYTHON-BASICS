@@ -33,3 +33,6 @@ Python beginner to intermediate
 	Mini Project: To-Do List App	GitHub, YouTube Tutorials, FreeCodeCamp
 	External Libraries (requests, pandas)	RealPython, GitHub, Coursera
 	Capstone Project	GitHub, Coursera, YouTube Tutorials
+
+
+NOW IM DEVELOPING PROJECTS
